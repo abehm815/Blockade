@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ## Sources
 Font: Open Sans created by Steve Matteson: https://fonts.google.com/specimen/Open+Sans/about
 
-Character Piece Art: "https://www.flaticon.com/free-icons/pawn" title="pawn icons">Pawn icons created by smashingstocks - Flaticon
+Character Piece Art: <a href="https://www.flaticon.com/free-icons/pawn" title="pawn icons">Pawn icons created by smashingstocks - Flaticon</a>
 
 Game sound effects: https://mixkit.co/free-sound-effects/game/
 

@@ -8,12 +8,6 @@ Numpy, Pygame, and Pathfinding must be installed on your system for the program 
 
 To get started with the project, follow these steps:
 
-## Installation
-
-Numpy, Pygame, and Pathfinding must be installed on your system for the program to run, (Listed in recquirements.txt)
-
-To get started with the project, follow these steps:
-
 ```bash
 # Clone the repository:
 git clone https://github.com/abehm815/Blockade.git

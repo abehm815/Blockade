@@ -4,6 +4,8 @@ A simple game based on Quirrodor including multiple-player modes using the pygam
 
 ## Installation
 
+Numpy, Pygame, and Pathfinding must be installed on your system for the program to run, (Listed in recquirements.txt)
+
 To get started with the project, follow these steps:
 
 ```bash

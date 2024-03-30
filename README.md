@@ -58,12 +58,12 @@ pip install -r requirements.txt
 ```
 
 ## Credits
-#Font created by Steve Matteson: https://fonts.google.com/specimen/Open+Sans/about
+Font created by Steve Matteson: https://fonts.google.com/specimen/Open+Sans/about
 
-#Character Piece Art: "https://www.flaticon.com/free-icons/pawn" title="pawn icons">Pawn icons created by smashingstocks - Flaticon
+Character Piece Art: "https://www.flaticon.com/free-icons/pawn" title="pawn icons">Pawn icons created by smashingstocks - Flaticon
 
-#Game sound effects: https://mixkit.co/free-sound-effects/game/
+Game sound effects: https://mixkit.co/free-sound-effects/game/
 
-#External Modules Used: Pygame: https://www.pygame.org/docs/ Numpy: https://numpy.org/doc/ Pathfinding: https://pypi.org/project/pathfinding/
+External Modules Used: Pygame: https://www.pygame.org/docs/ Numpy: https://numpy.org/doc/ Pathfinding: https://pypi.org/project/pathfinding/
 
-#Game Inspiration: https://en.wikipedia.org/wiki/Quoridor
+Game Inspiration (Quorridor): https://en.wikipedia.org/wiki/Quoridor

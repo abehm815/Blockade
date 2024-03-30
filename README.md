@@ -7,9 +7,6 @@ A simple game based on Quirrodor including multiple-player modes using the pygam
 Numpy, Pygame, and Pathfinding must be installed on your system for the program to run, (Listed in recquirements.txt)
 
 To get started with the project, follow these steps:
-# Blockade
-
-A simple game based on Quirrodor including multiple-player modes using the pygame module. The instructions for playing the game can be found in the main menu.
 
 ## Installation
 
@@ -61,5 +58,8 @@ pip install -r requirements.txt
 ```
 
 ## Credits
-
-svdsdvdsv
+#Font created by Steve Matteson: https://fonts.google.com/specimen/Open+Sans/about
+#Character Piece Art: "https://www.flaticon.com/free-icons/pawn" title="pawn icons">Pawn icons created by smashingstocks - Flaticon
+#Game sound effects: https://mixkit.co/free-sound-effects/game/
+#External Modules Used: Pygame: https://www.pygame.org/docs/ Numpy: https://numpy.org/doc/ Pathfinding: https://pypi.org/project/pathfinding/
+#Game Inspiration: https://en.wikipedia.org/wiki/Quoridor

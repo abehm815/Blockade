@@ -1,6 +1,6 @@
 # Blockade
 
-A game based on Quirrodor in which players try to get their pawn to the opposite side of the board while simultaneously placing walls to block opponents. Full instructions can be found within the main menu. 
+A game based on Quirrodor in which players try to get their pawn to the opposite side of the board while simultaneously placing walls to block opponents. The game can be played with 2-4 people and has a mode to play against the computer. Full instructions on how to play can be found within the main menu.
 
 ## Installation
 
